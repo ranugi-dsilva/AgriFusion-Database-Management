@@ -27,7 +27,7 @@ The database contains 26 relational tables connected using primary and foreign k
 
 ## How to Run
 1. Open MySQL Workbench.
-2. Open `agriFusion.sql`.
+2. Open the [agriFusion.sql](agriFusion.sql) file.
 3. Execute the SQL script.
 
 ## Entity Relationship Diagram (ERD)
