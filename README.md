@@ -34,4 +34,4 @@ The database contains 26 relational tables connected using primary and foreign k
 
 The following diagram illustrates the structure of the AgriFusion database, including its entities and relationships.
 
-![AgriFusion ER Diagram](documentation/AgriFusion-ERD.png)
+![AgriFusion ER Diagram](documentation/AgriFusion-ERD.drawio.png)
